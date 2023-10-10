@@ -54,6 +54,7 @@ export default {
     padding: 0 9px;
     border: 1px solid #e6e6eb;
     border-radius: 11px;
+    background-color: #fff;
     font-size: 14px;
     letter-spacing: -0.021px;
     height: 39px;

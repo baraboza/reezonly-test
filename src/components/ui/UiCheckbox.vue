@@ -7,9 +7,7 @@
       @change="onChange"
     >
 
-    <span class="ui-checkbox__checkbox">
-
-    </span>
+    <span class="ui-checkbox__checkbox" />
 
     <span class="ui-checkbox__label">{{ label }}</span>
   </label>
